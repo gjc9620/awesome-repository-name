@@ -1,5 +1,4 @@
-# awesome-repository-name
-cool name
+collect some cool repository name
 
 * mutiny 
 * assassin
